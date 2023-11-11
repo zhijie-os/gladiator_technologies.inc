@@ -13,7 +13,7 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are ready to help"
+          title="让我们来帮助你的企业"
           paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
           center
           mb="80px"
@@ -50,14 +50,14 @@ const Video = () => {
       </div>
 
       <ModalVideo
-        channel="youtube"
+        channel="custom"
+        url={"/test.mp4"}
         autoplay={true}
         start={true}
         isOpen={isOpen}
-        videoId="L61p2uyiMSo"
         onClose={() => setOpen(false)}
       />
-
+ 
       <div className="absolute bottom-0 left-0 right-0 z-[-1] h-full w-full bg-[url(/images/video/shape.svg)] bg-cover bg-center bg-no-repeat"></div>
     </section>
   );

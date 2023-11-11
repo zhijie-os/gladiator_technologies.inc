@@ -12,8 +12,8 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "浙江角斗士科技有限责任公司",
+  description: "浙江角斗士科技责任有限公司：专业提供定制化技术解决方案和咨询服务，帮助企业攻克技术难题，驱动业务增长。",
   // other metadata
 };
 
@@ -25,11 +25,11 @@ export default function Home() {
       <Features />
       <Video />
       <Brands />
-      <AboutSectionOne />
-      <AboutSectionTwo />
-      <Testimonials />
-      <Pricing />
-      <Blog />
+      {/* <AboutSectionOne /> */}
+      {/* <AboutSectionTwo /> */}
+      {/* <Testimonials /> */}
+      {/* <Pricing /> */}
+      {/* <Blog /> */}
       <Contact />
     </>
   );

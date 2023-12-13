@@ -9,6 +9,17 @@
     font-family: "Inter", sans-serif;
   }
 }
+@layer base {
+  body {
+    @apply bg-neutral-100;
+  }
+  @media (prefers-color-scheme: dark) {
+    body {
+      @apply bg-neutral-900;
+    }
+  }
+}
+
 
 @layer components {
   input[type="checkbox"]:checked ~ label span svg {

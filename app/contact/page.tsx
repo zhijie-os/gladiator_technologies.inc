@@ -14,7 +14,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="联系我们"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="无论您的需求如何复杂，我们都有能力和专业知识来帮助您实现目标。请联系我们的团队，了解更多信息。"
       />
 
       <Contact />

@@ -1,12 +1,12 @@
 import { Menu } from "@/types/menu";
 
 const menuData: Menu[] = [
-  {
-    id: 1,
-    title: "角斗士科技",
-    path: "/",
-    newTab: false,
-  },
+  // {
+  //   id: 1,
+  //   title: "角斗士科技",
+  //   path: "/",
+  //   newTab: false,
+  // },
   // {
   //   id: 2,
   //   title: "About",
@@ -44,7 +44,7 @@ const menuData: Menu[] = [
       },
       {
         id: 43,
-        title: "科技博客",
+        title: "数字解决方案",
         path: "/blog",
         newTab: false,
       },

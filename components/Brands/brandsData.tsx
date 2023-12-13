@@ -3,17 +3,17 @@ import { Brand } from "@/types/brand";
 const brandsData: Brand[] = [
   {
     id: 1,
-    name: "UIdeck",
-    href: "https://uideck.com",
-    image: "/images/brands/uideck.svg",
-    imageLight: "/images/brands/uideck-light.svg",
+    name: "Interaction Lab",
+    href: "https://ilab.ucalgary.ca/",
+    image: "/images/brands/ilab.svg",
+    imageLight: "/images/brands/ilab.svg",
   },
   {
     id: 2,
     name: "Tailgrids",
     href: "https://tailgrids.com",
-    image: "/images/brands/tailgrids.svg",
-    imageLight: "/images/brands/tailgrids-light.svg",
+    image: "/images/brands/ilab.svg",
+    imageLight: "/images/brands/ilab.svg",
   },
   // {
   //   id: 3,

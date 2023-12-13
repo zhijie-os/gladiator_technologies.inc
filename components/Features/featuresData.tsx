@@ -27,9 +27,9 @@ const featuresData: Feature[] = [
         <path d="M19.408 28.931C19.7603 29.1896 20.2396 29.1894 20.5918 28.9306L36.3556 17.3466L38.8979 15.4883C39.4437 15.0894 39.4446 14.275 38.8996 13.8749L20.5918 0.43445C20.2396 0.175911 19.7604 0.175913 19.4082 0.434452L1.09706 13.8774C0.553051 14.2767 0.552712 15.0892 1.09638 15.4891L3.62222 17.3466L19.408 28.931Z" />
       </svg>
     ),
-    title: "High-quality Design",
+    title: "卓越设计",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "我们的设计团队追求精准和实用性，致力于创造既美观又高效的产品界面和用户体验。我们坚信好的设计不仅能吸引用户的眼球，更是沟通品牌价值和理念的桥梁。我们的目标是通过创新思维和细致工艺，为客户提供高质量的设计解决方案。",
   },
   {
     id: 1,
@@ -42,9 +42,9 @@ const featuresData: Feature[] = [
         <path d="M20 15C22.75 15 25 17.25 25 20C25 22.75 22.75 25 20 25C17.25 25 15 22.75 15 20C15 17.25 17.25 15 20 15ZM20 0C22.75 0 25 2.25 25 5C25 7.75 22.75 10 20 10C17.25 10 15 7.75 15 5C15 2.25 17.25 0 20 0ZM5 30C7.75 30 10 32.25 10 35C10 37.75 7.75 40 5 40C2.25 40 0 37.75 0 35C0 32.25 2.25 30 5 30ZM5 15C7.75 15 10 17.25 10 20C10 22.75 7.75 25 5 25C2.25 25 0 22.75 0 20C0 17.25 2.25 15 5 15ZM5 0C7.75 0 10 2.25 10 5C10 7.75 7.75 10 5 10C2.25 10 0 7.75 0 5C0 2.25 2.25 0 5 0ZM35 0C37.75 0 40 2.25 40 5C40 7.75 37.75 10 35 10C32.25 10 30 7.75 30 5C30 2.25 32.25 0 35 0Z" />
       </svg>
     ),
-    title: "Next.js 13 (Latest)",
+    title: "勇于挑战",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "在这个快速变化的数字时代，我们不畏惧挑战，不断探索技术的最新趋势。我们致力于将这些创新技术应用到我们的产品和服务中，帮助企业客户克服难题，开拓市场。选择我们，共同面对每一个挑战，解锁企业潜能，赢在未来。",
   },
   // {
   //   id: 1,

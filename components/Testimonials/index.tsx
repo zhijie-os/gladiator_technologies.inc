@@ -49,7 +49,7 @@ const Testimonials = () => {
         </div>
       </div>
       <div className="absolute right-0 top-5 z-[-1]">
-        <svg
+        {/* <svg
           width="238"
           height="531"
           viewBox="0 0 238 531"
@@ -100,7 +100,7 @@ const Testimonials = () => {
               <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
             </linearGradient>
           </defs>
-        </svg>
+        </svg> */}
       </div>
       <div className="absolute bottom-5 left-0 z-[-1]">
         <svg

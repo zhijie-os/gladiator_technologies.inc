@@ -14,7 +14,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="让我们来帮助你的企业"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="我们的团队致力于为企业提供前沿科技解决方案。我们深信，创新的科技可以推动企业发展，解决复杂问题。我们的目标是通过提供专业的技术支持和服务，帮助企业达到他们的业务目标，优化流程效率，提升市场竞争力，共创美好的科技未来。"
           center
           mb="80px"
         />
@@ -58,7 +58,7 @@ const Video = () => {
         onClose={() => setOpen(false)}
       />
  
-      <div className="absolute bottom-0 left-0 right-0 z-[-1] h-full w-full bg-[url(/images/video/shape.svg)] bg-cover bg-center bg-no-repeat"></div>
+      <div className="absolute bottom-0 left-0 right-0 z-[-1] h-full w-full] bg-cover bg-center bg-no-repeat"></div>
     </section>
   );
 };

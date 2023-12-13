@@ -52,25 +52,26 @@ const Header = () => {
             <div className="w-60 max-w-full px-4 xl:mr-12">
               <Link
                 href="/"
-                className={`header-logo block w-full ${
+                className={`flex justify-center header-logo w-full ${
                   sticky ? "py-5 lg:py-2" : "py-8"
                 } `}
               >
                 <Image
-                  src="/images/logo/logo-2.svg"
-                  alt="logo"
-                  width={140}
-                  height={30}
-                  className="w-full dark:hidden"
-                />
-                <Image
-                  src="/images/logo/logo.svg"
+                  src="/images/logo/logo-black.svg"
                   alt="logo"
                   width={40}
                   height={40}
-                  className="hidden w-full dark:block"
+                  className="w-34 dark:hidden"
+                />
+                <Image
+                  src="/images/logo/logo-white.svg"
+                  alt="logo"
+                  width={40}
+                  height={40}
+                  className="hidden w-34 dark:block"
                 />
               </Link>
+              {/* <div>浙江角斗士</div> */}
             </div>
             <div className="flex w-full items-center justify-between px-4">
               <div>

@@ -279,11 +279,11 @@ const BlogDetailsPage = () => {
                             filterUnits="userSpaceOnUse"
                             colorInterpolationFilters="sRGB"
                           >
-                            <feFlood
+                            {/* <feFlood
                               floodOpacity="0"
                               result="BackgroundImageFix"
-                            />
-                            <feBlend
+                            /> */}
+                            {/* <feBlend
                               mode="normal"
                               in="SourceGraphic"
                               in2="BackgroundImageFix"
@@ -292,7 +292,7 @@ const BlogDetailsPage = () => {
                             <feGaussianBlur
                               stdDeviation="10.5"
                               result="effect1_foregroundBlur_111:596"
-                            />
+                            /> */}
                           </filter>
                           <radialGradient
                             id="paint0_radial_111:596"

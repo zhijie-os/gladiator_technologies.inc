@@ -28,6 +28,9 @@ const AboutSectionTwo = () => {
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   加拿大卡尔加里大学计算机科学专业本科，曾在加拿大多家公司担任软件工程师，以及Programmable Reality Lab实验室担任研究员，有丰富的研究和开发经验。现任浙江角斗士科技有限公司首席执行官。
                 </p>
+                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                  个人网站：<a href="https://www.zhijiexia.org">www.zhijiexia.org</a>
+                </p>
               </div>
               {/* <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">

@@ -59,14 +59,6 @@ const Footer = () => {
                   关于角斗士
                 </h2>
                 <ul>
-                  <li>
-                    <a
-                      href="/blogs"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      博客
-                    </a>
-                  </li>
                     {/* <li>
                       <a
                         href="/pricing"

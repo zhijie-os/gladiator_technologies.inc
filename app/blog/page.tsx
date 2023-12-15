@@ -5,7 +5,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "商用产品 | 技术支持",
+  title: "数字解决方案 | 技术支持",
   description: "浙江角斗士科技， 商用产品， 技术支持",
   // other metadata
 };

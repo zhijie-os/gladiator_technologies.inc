@@ -21,7 +21,7 @@ const menuData: Menu[] = [
   },
   {
     id: 33,
-    title: "商用产品及方案",
+    title: "数字解决方案",
     path: "/blog",
     newTab: false,
   },

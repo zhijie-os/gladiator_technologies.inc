@@ -87,7 +87,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/"
+                      href="/documents/terms_of_use.pdf"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       使用条款
@@ -95,20 +95,20 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/documents/privacy_policy.pdf"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       隐私条款
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a
                       href="/"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       法律信息
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

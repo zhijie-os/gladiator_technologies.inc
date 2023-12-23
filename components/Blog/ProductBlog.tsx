@@ -3,15 +3,15 @@ import Image from "next/image";
 import Link from "next/link";
 
 const ProductBlog = ({ blog }: { blog: Blog }) => {
-  const { title, image, paragraph, author, tags, publishDate } = blog;
+  const { title, image, paragraph, author, href, tags, publishDate } = blog;
   return (
     <>
       <div
-        className="wow fadeInUp hover:shadow-two dark:hover:shadow-gray-dark group relative overflow-hidden rounded-sm bg-white shadow-one duration-300 dark:bg-dark"
+        className="wow fadeInUp group relative overflow-hidden rounded-sm bg-white shadow-one duration-300 hover:shadow-two dark:bg-dark dark:hover:shadow-gray-dark"
         data-wow-delay=".1s"
       >
         <Link
-          href="/blog-details"
+          href={"/blog-details/" + href}
           className="relative block aspect-[37/22] w-full"
         >
           <Image src={image} alt="image" fill />

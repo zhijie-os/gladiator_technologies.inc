@@ -70,7 +70,7 @@ const BlogDetails = () => {
                     认识角斗士技术公司
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    随着我们更深入地进入数字时代，网络安全的重要性变得愈加突出。在这个互联互通的世界中，网络安全的漏洞可能导致重大的财务和声誉损失。无论大小或行业，所有企业都可能成为网络威胁的目标。这一现实使网络安全从IT部门的后台转移到了业务战略的前沿。
+                    角斗士科技，作为一家领先的互联网技术公司，致力于提供创新和高效的网络解决方案。我们的服务范围广泛，包括但不限于云计算、大数据分析、网络安全以及定制化的软件开发。我们的云服务平台为企业提供了弹性、安全且易于管理的云基础设施，帮助客户轻松实现数字化转型。此外，我们的大数据解决方案能够协助企业从海量数据中提取有价值的洞见，支持更明智的商业决策。在网络安全方面，角斗士科技提供全面的安全策略和服务，确保客户数据的安全和完整性。我们还专注于为不同行业提供定制化的软件解决方案，以满足特定的业务需求。在角斗士科技，我们不断探索和创新，旨在为客户提供前沿的技术和卓越的服务体验。
                   </p>
 
 
@@ -79,21 +79,24 @@ const BlogDetails = () => {
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    网络应用防火墙(WAF):我们先进的WAF提供了对包括SQL注入和跨站脚本在内的多种基于网络的攻击的防护。它旨在在不影响您网络应用性能的情况下提供强大的保护。
+                      云计算和虚拟化解决方案： 我们提供先进的云计算服务，包括云存储、云服务器和云应用平台。利用虚拟化技术，我们帮助企业轻松实现资源优化和成本节约，同时确保数据安全和系统可靠性。
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    虚拟专用网络 (VPN):我们的VPN服务确保数据传输的安全、加密隧道。它非常适合远程工作者和多地点的企业，为通信和数据传输提供安全的
+                      数据分析和机器学习：通过应用机器学习和深度学习技术，我们提供定制的数据分析解决方案。这些服务有助于企业从大量数据中提取有价值的洞见，从而支持更明智的商业决策和策略。
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    端点检测和响应 (EDR):我们的EDR解决方案是一种尖端的网络安全工具，能够在端点级别监控和响应威胁。它利用先进的分析和机器学习技术识别并中和复杂的网络威胁，为您的网络提供强大的防御线，以抵御各种形式的恶意软件和攻击。
+                      API开发和集成服务：我们专注于开发高效、安全的API，为各种应用和系统提供无缝集成。我们的API解决方案强调易用性和可扩展性，帮助企业提高运营效率和用户体验。
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    态势感知系统：这些系统为您提供网络安全状况的全面概述。通过聚合和分析来自多个来源的数据，它们提供对潜在威胁和漏洞的实时洞察。这使得能够主动检测和响应安全事件，确保您网络的安全和完整性。
+                      移动应用开发：我们专业开发iOS和Android平台的移动应用。无论是电商、社交媒体还是企业应用，我们都能提供个性化的设计和开发服务，满足不同客户的需求。
+                    </li>
+                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
+                      区块链技术应用：我们利用区块链技术开发安全、透明的应用解决方案。包括加密货币、智能合约和供应链管理等，为企业提供去中心化、不可篡改的数字解决方案。
                     </li>
                   </ul>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                      Security is an army race, it is constantly battling game - Joel Reardon
+                      Stay hungry. Stay foolish. - Steve Jobs
                     </p>
                   </div>
 
@@ -103,9 +106,10 @@ const BlogDetails = () => {
                         关键词 :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="网络安全" />
-                        <TagButton text="企业网络" />
-                        <TagButton text="漏洞扫描" />
+                        <TagButton text="云计算" />
+                        <TagButton text="机器学习" />
+                        <TagButton text="API开发" />
+                        <TagButton text="区块链" />
                       </div>
                     </div>
                   </div>

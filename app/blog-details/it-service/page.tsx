@@ -3,7 +3,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "产品 | 浙江角斗士科技",
-  description: "互联网 | 浙江角斗士科技",
+  description: "互联网服务 | Internet Service | 浙江角斗士科技",
   // other metadata
 };
 
@@ -16,7 +16,7 @@ const BlogDetails = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  理解当今数字世界中网络安全的关键作用
+                  互联网时代
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">
@@ -62,9 +62,9 @@ const BlogDetails = () => {
                 </div>
                 <div>
                   <strong className="py-1 pb-2 text-primary dark:text-white">
-                    网络安全的重要性不断升级
+                    互联网的时代到来
                   </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在角斗士技术公司，我们不仅理解数字时代的挑战；我们创造了克服这些挑战的解决方案。我们的专家团队致力于开发适应各种业务需求的尖端网络安全产品。我们的整体方法结合了先进技术和用户友好的界面，确保您的网络安全措施既强大又易于管理。</p>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在当今这个信息化时代，互联网服务已经成为我们日常生活和商业活动中不可或缺的一部分。从基本的网络连接到复杂的云计算解决方案，互联网服务提供了一个平台，使个人和企业能够以前所未有的方式进行交流、合作和创新。通过这些服务，我们可以迅速访问大量信息，享受便捷的在线交易，并利用各种在线工具和应用来提高工作效率和生活质量。随着技术的不断进步，互联网服务的范围和质量也在持续扩展和改进，为我们带来更加丰富多彩的数字生活体验。</p>
                   
                   <strong className="py-1 pb-2 text-primary dark:text-white">
                     认识角斗士技术公司

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "产品 | 浙江角斗士科技",
-  description: "网络安全产品 | 浙江角斗士科技",
+  description: "互联网 | 浙江角斗士科技",
   // other metadata
 };
 
@@ -90,18 +90,7 @@ const BlogDetails = () => {
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                     态势感知系统：这些系统为您提供网络安全状况的全面概述。通过聚合和分析来自多个来源的数据，它们提供对潜在威胁和漏洞的实时洞察。这使得能够主动检测和响应安全事件，确保您网络的安全和完整性。
                     </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    虚拟专用网 (VPN)：使您能够在共享或公共网络上发送和接收数据，就像您的计算设备直接连接到专用网络（如公司内网）上一样。 VPN的好处包括增加专用网络的功能、安全性和管理，它提供了对公共网络上无法访问的资源访问通常用于远程办公人员。
-                    </li>
                   </ul>
-
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
-                    事件响应 (Incident Response, IR)
-                  </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    为了更全面地保护您的企业免受网络攻击和数据泄露的影响，我们的网络安全产品现已增设了专业的事件响应（IR）服务。此项服务旨在提供快速、有效的解决方案，以应对可能发生的安全事件、对已经发生的安全事件追责。
-                  </p>
-
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
                       Security is an army race, it is constantly battling game - Joel Reardon
@@ -117,7 +106,6 @@ const BlogDetails = () => {
                         <TagButton text="网络安全" />
                         <TagButton text="企业网络" />
                         <TagButton text="漏洞扫描" />
-                        <TagButton text="事件响应" />
                       </div>
                     </div>
                   </div>

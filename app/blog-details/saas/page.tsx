@@ -16,7 +16,7 @@ const BlogDetails = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  Saa
+                  SaaS - 软件开发服务
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">
@@ -61,52 +61,20 @@ const BlogDetails = () => {
                   </div>
                 </div>
                 <div>
+   
                   <strong className="py-1 pb-2 text-primary dark:text-white">
-                    网络安全的重要性不断升级
-                  </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在角斗士技术公司，我们不仅理解数字时代的挑战；我们创造了克服这些挑战的解决方案。我们的专家团队致力于开发适应各种业务需求的尖端网络安全产品。我们的整体方法结合了先进技术和用户友好的界面，确保您的网络安全措施既强大又易于管理。</p>
-                  
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
-                    认识角斗士技术公司
-                  </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    随着我们更深入地进入数字时代，网络安全的重要性变得愈加突出。在这个互联互通的世界中，网络安全的漏洞可能导致重大的财务和声誉损失。无论大小或行业，所有企业都可能成为网络威胁的目标。这一现实使网络安全从IT部门的后台转移到了业务战略的前沿。
-                  </p>
-
-
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
-                    角斗士产品
+                    角斗士科技的SaaS服务
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    网络应用防火墙(WAF):我们先进的WAF提供了对包括SQL注入和跨站脚本在内的多种基于网络的攻击的防护。它旨在在不影响您网络应用性能的情况下提供强大的保护。
-                    </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    虚拟专用网络 (VPN):我们的VPN服务确保数据传输的安全、加密隧道。它非常适合远程工作者和多地点的企业，为通信和数据传输提供安全的
-                    </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    端点检测和响应 (EDR):我们的EDR解决方案是一种尖端的网络安全工具，能够在端点级别监控和响应威胁。它利用先进的分析和机器学习技术识别并中和复杂的网络威胁，为您的网络提供强大的防御线，以抵御各种形式的恶意软件和攻击。
-                    </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    态势感知系统：这些系统为您提供网络安全状况的全面概述。通过聚合和分析来自多个来源的数据，它们提供对潜在威胁和漏洞的实时洞察。这使得能够主动检测和响应安全事件，确保您网络的安全和完整性。
-                    </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    虚拟专用网 (VPN)：使您能够在共享或公共网络上发送和接收数据，就像您的计算设备直接连接到专用网络（如公司内网）上一样。 VPN的好处包括增加专用网络的功能、安全性和管理，它提供了对公共网络上无法访问的资源访问通常用于远程办公人员。
+                    我们提供企业软件的定制服务，您的需求我们都可以满足！请大胆联系我们，我们将为您提供最优质的服务！
                     </li>
                   </ul>
-
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
-                    事件响应 (Incident Response, IR)
-                  </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    为了更全面地保护您的企业免受网络攻击和数据泄露的影响，我们的网络安全产品现已增设了专业的事件响应（IR）服务。此项服务旨在提供快速、有效的解决方案，以应对可能发生的安全事件、对已经发生的安全事件追责。
-                  </p>
-
-                  <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
+                  {/* <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
                       Security is an army race, it is constantly battling game - Joel Reardon
                     </p>
-                  </div>
+                  </div> */}
 
                   <div className="items-center justify-between sm:flex">
                     <div className="mb-5">
@@ -114,10 +82,7 @@ const BlogDetails = () => {
                         关键词 :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="网络安全" />
-                        <TagButton text="企业网络" />
-                        <TagButton text="漏洞扫描" />
-                        <TagButton text="事件响应" />
+                        <TagButton text="软件定制" />
                       </div>
                     </div>
                   </div>

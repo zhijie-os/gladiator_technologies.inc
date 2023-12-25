@@ -3,7 +3,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "产品 | 浙江角斗士科技",
-  description: "SaaS服务 | 浙江角斗士科技",
+  description: "网络安全产品 | 浙江角斗士科技",
   // other metadata
 };
 
@@ -16,7 +16,7 @@ const BlogDetails = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  SaaS服务
+                  理解当今数字世界中网络安全的关键作用
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">

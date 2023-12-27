@@ -2,8 +2,32 @@ import Image from "next/image";
 import SectionTitle from "../Common/SectionTitle";
 
 const checkIcon = (
-  <svg width="16" height="13" viewBox="0 0 16 13" className="fill-current">
-    <path d="M5.8535 12.6631C5.65824 12.8584 5.34166 12.8584 5.1464 12.6631L0.678505 8.1952C0.483242 7.99994 0.483242 7.68336 0.678505 7.4881L2.32921 5.83739C2.52467 5.64193 2.84166 5.64216 3.03684 5.83791L5.14622 7.95354C5.34147 8.14936 5.65859 8.14952 5.85403 7.95388L13.3797 0.420561C13.575 0.22513 13.8917 0.225051 14.087 0.420383L15.7381 2.07143C15.9333 2.26669 15.9333 2.58327 15.7381 2.77854L5.8535 12.6631Z" />
+  <svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    width="1515.000000pt"
+    height="1515.000000pt"
+    viewBox="0 0 1515.000000 1515.000000"
+    preserveAspectRatio="xMidYMid meet"
+  >
+    <g
+      transform="translate(0.000000,1515.000000) scale(0.100000,-0.100000)"
+      fill="#64748b"
+      stroke="none"
+    >
+      <path
+        d="M14570 13215 c-25 -7 -121 -34 -215 -60 -1761 -487 -3524 -1515
+-5420 -3159 -1193 -1035 -2785 -2654 -4294 -4369 -52 -59 -97 -107 -100 -107
+-3 0 -21 39 -40 88 -316 821 -711 1460 -1129 1826 -428 375 -864 547 -1308
+516 -444 -32 -809 -252 -1131 -685 -73 -98 -176 -263 -227 -363 l-25 -50 77
+-7 c262 -22 469 -99 672 -251 259 -193 479 -503 684 -965 35 -79 104 -227 154
+-329 328 -673 615 -1384 1155 -2860 163 -444 339 -914 447 -1190 79 -204 98
+-230 195 -276 91 -43 178 -30 275 41 40 29 64 64 160 232 146 255 411 699 610
+1023 1216 1977 2563 3799 4064 5500 778 881 1820 1936 2674 2707 921 832 1882
+1606 2802 2256 266 188 325 237 387 321 36 48 43 66 41 95 -4 44 -26 56 -124
+71 -99 14 -330 11 -384 -5z"
+      />
+    </g>
   </svg>
 );
 
@@ -48,7 +72,7 @@ const AboutSectionOne = () => {
                 </div>
               </div>
             </div>
-            
+
             <div className="w-full px-4 lg:w-1/2">
               <div
                 className="wow fadeInUp relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0"
@@ -58,7 +82,7 @@ const AboutSectionOne = () => {
                   src="/images/about/choose_us.png"
                   alt="choose us"
                   fill
-                  className="drop-shadow-three mx-auto max-w-full dark:hidden dark:drop-shadow-none lg:mr-0"
+                  className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
               </div>
             </div>

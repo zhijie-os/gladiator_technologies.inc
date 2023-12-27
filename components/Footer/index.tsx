@@ -38,14 +38,14 @@ const Footer = () => {
                   <a
                     href="/"
                     aria-label="social-link"
-                    className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                    className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                   >
                     <BsWechat />
                   </a>
                   <a
                     href="/"
                     aria-label="social-link"
-                    className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                    className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                   >
                     <BsLinkedin />
                   </a>
@@ -62,7 +62,7 @@ const Footer = () => {
                     {/* <li>
                       <a
                         href="/pricing"
-                        className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                        className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                       >
                         Pricing
                       </a>
@@ -70,7 +70,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/about"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       关于我们
                     </a>
@@ -88,7 +88,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/documents/terms_of_use.pdf"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       使用条款
                     </a>
@@ -96,7 +96,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/documents/privacy_policy.pdf"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       隐私条款
                     </a>
@@ -104,7 +104,7 @@ const Footer = () => {
                   {/* <li>
                     <a
                       href="/"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       法律信息
                     </a>
@@ -122,7 +122,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/contact"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       业务咨询
                     </a>
@@ -130,7 +130,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/contact"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       产品售后
                     </a>
@@ -138,7 +138,7 @@ const Footer = () => {
                   <li>
                     <a
                       href="/contact"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
                     >
                       企业合作
                     </a>

@@ -22,7 +22,7 @@ const SignupPage = () => {
                 <p className="mb-11 text-center text-base font-medium text-body-color">
                   It’s totally free and super easy
                 </p>
-                <button className="border-stroke dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-primary dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-primary dark:hover:shadow-none">
+                <button className="border-stroke dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-blue-500 dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-blue-500 dark:hover:shadow-none">
                   <span className="mr-3">
                     <svg
                       width="20"
@@ -59,7 +59,7 @@ const SignupPage = () => {
                   Sign in with Google
                 </button>
 
-                <button className="border-stroke dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-primary dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-primary dark:hover:shadow-none">
+                <button className="border-stroke dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-blue-500 dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-blue-500 dark:hover:shadow-none">
                   <span className="mr-3">
                     <svg
                       fill="currentColor"
@@ -158,12 +158,12 @@ const SignupPage = () => {
                       </div>
                       <span>
                         By creating account means you agree to the
-                        <a href="#0" className="text-primary hover:underline">
+                        <a href="#0" className="text-blue-500 hover:underline">
                           {" "}
                           Terms and Conditions{" "}
                         </a>
                         , and our
-                        <a href="#0" className="text-primary hover:underline">
+                        <a href="#0" className="text-blue-500 hover:underline">
                           {" "}
                           Privacy Policy{" "}
                         </a>
@@ -178,7 +178,7 @@ const SignupPage = () => {
                 </form>
                 <p className="text-center text-base font-medium text-body-color">
                   Already using Startup?{" "}
-                  <Link href="/signin" className="text-primary hover:underline">
+                  <Link href="/signin" className="text-blue-500 hover:underline">
                     Sign in
                   </Link>
                 </p>

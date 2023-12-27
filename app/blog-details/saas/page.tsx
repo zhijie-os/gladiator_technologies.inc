@@ -62,7 +62,7 @@ const BlogDetails = () => {
                 </div>
                 <div>
    
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     角斗士科技的SaaS服务
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">

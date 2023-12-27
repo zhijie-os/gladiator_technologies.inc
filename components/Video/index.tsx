@@ -31,7 +31,7 @@ const Video = () => {
                   <button
                     aria-label="video play button"
                     onClick={() => setOpen(true)}
-                    className="flex h-[70px] w-[70px] items-center justify-center rounded-full bg-white bg-opacity-75 text-primary transition hover:bg-opacity-100"
+                    className="flex h-[70px] w-[70px] items-center justify-center rounded-full bg-white bg-opacity-75 text-blue-500 transition hover:bg-opacity-100"
                   >
                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="1436.000000pt" height="1436.000000pt" viewBox="0 0 1436.000000 1436.000000"

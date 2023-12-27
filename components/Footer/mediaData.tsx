@@ -3,7 +3,7 @@
 //     <a
 //     href="/"
 //     aria-label="social-link"
-//     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+//     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
 //   >
 //     <svg
 //       width="19"
@@ -17,7 +17,7 @@
 //   <a
 //     href="/"
 //     aria-label="social-link"
-//     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+//     className="dark:text-body-color-dark mr-6 text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
 //   >
 //     <svg
 //       width="18"
@@ -31,7 +31,7 @@
 //   <a
 //     href="/"
 //     aria-label="social-link"
-//     className="dark:text-body-color-dark text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+//     className="dark:text-body-color-dark text-body-color duration-300 hover:text-blue-500 dark:hover:text-blue-500"
 //   >
 //     <svg
 //       width="17"

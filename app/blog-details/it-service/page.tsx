@@ -54,19 +54,19 @@ const BlogDetails = () => {
                   <div className="mb-5">
                     <a
                       href="#0"
-                      className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white"
+                      className="inline-flex items-center justify-center rounded-full bg-slate-700 hover:bg-slate-500 px-4 py-2 text-sm font-semibold text-white"
                     >
                       联系我们
                     </a>
                   </div>
                 </div>
                 <div>
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     互联网的时代到来
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在当今这个信息化时代，互联网服务已经成为我们日常生活和商业活动中不可或缺的一部分。从基本的网络连接到复杂的云计算解决方案，互联网服务提供了一个平台，使个人和企业能够以前所未有的方式进行交流、合作和创新。通过这些服务，我们可以迅速访问大量信息，享受便捷的在线交易，并利用各种在线工具和应用来提高工作效率和生活质量。随着技术的不断进步，互联网服务的范围和质量也在持续扩展和改进，为我们带来更加丰富多彩的数字生活体验。</p>
                   
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     认识角斗士技术公司
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
@@ -74,7 +74,7 @@ const BlogDetails = () => {
                   </p>
 
 
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     角斗士产品
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">

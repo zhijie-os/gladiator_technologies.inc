@@ -61,12 +61,12 @@ const BlogDetails = () => {
                   </div>
                 </div>
                 <div>
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     网络安全的重要性不断升级
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在角斗士技术公司，我们不仅理解数字时代的挑战；我们创造了克服这些挑战的解决方案。我们的专家团队致力于开发适应各种业务需求的尖端网络安全产品。我们的整体方法结合了先进技术和用户友好的界面，确保您的网络安全措施既强大又易于管理。</p>
                   
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     认识角斗士技术公司
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
@@ -74,7 +74,7 @@ const BlogDetails = () => {
                   </p>
 
 
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     角斗士产品
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
@@ -95,7 +95,7 @@ const BlogDetails = () => {
                     </li>
                   </ul>
 
-                  <strong className="py-1 pb-2 text-primary dark:text-white">
+                  <strong className="py-1 pb-2 text-blue-500 dark:text-white">
                     事件响应 (Incident Response, IR)
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">

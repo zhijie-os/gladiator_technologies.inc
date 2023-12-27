@@ -125,7 +125,7 @@ const BlogSidebarPage = () => {
                     do eiusmod tempor incididunt ut labore et dolore magna
                     aliqua. Quis enim lobortis scelerisque fermentum. Neque
                     sodales ut etiam sit amet. Ligula ullamcorper
-                    <strong className="text-primary dark:text-white">
+                    <strong className="text-blue-500 dark:text-white">
                       {" "}
                       malesuada{" "}
                     </strong>
@@ -135,7 +135,7 @@ const BlogSidebarPage = () => {
                   </p>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Semper auctor neque vitae tempus quam pellentesque nec.
-                    <span className="text-primary underline dark:text-white">
+                    <span className="text-blue-500 underline dark:text-white">
                       {" "}
                       Amet dictum sit amet justo{" "}
                     </span>
@@ -407,7 +407,7 @@ const BlogSidebarPage = () => {
                   <li>
                     <a
                       href="#0"
-                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
+                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-blue-500"
                     >
                       Tailwind Templates
                     </a>
@@ -415,7 +415,7 @@ const BlogSidebarPage = () => {
                   <li>
                     <a
                       href="#0"
-                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
+                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-blue-500"
                     >
                       Landing page
                     </a>
@@ -423,7 +423,7 @@ const BlogSidebarPage = () => {
                   <li>
                     <a
                       href="#0"
-                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
+                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-blue-500"
                     >
                       Startup
                     </a>
@@ -431,7 +431,7 @@ const BlogSidebarPage = () => {
                   <li>
                     <a
                       href="#0"
-                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
+                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-blue-500"
                     >
                       Business
                     </a>
@@ -439,7 +439,7 @@ const BlogSidebarPage = () => {
                   <li>
                     <a
                       href="#0"
-                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-primary"
+                      className="mb-3 inline-block text-base font-medium text-body-color hover:text-blue-500"
                     >
                       Multipurpose
                     </a>

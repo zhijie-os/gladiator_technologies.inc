@@ -79,7 +79,7 @@ const BlogDetails = () => {
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    网络应用防火墙(WAF):我们先进的WAF提供了对包括SQL注入和跨站脚本在内的多种基于网络的攻击的防护。它旨在在不影响您网络应用性能的情况下提供强大的保护。
+                    网络应用防火墙 (WAF):我们先进的WAF提供了对包括SQL注入和跨站脚本在内的多种基于网络的攻击的防护。它旨在在不影响您网络应用性能的情况下提供强大的保护。
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                     虚拟专用网络 (VPN):我们的VPN服务确保数据传输的安全、加密隧道。它非常适合远程工作者和多地点的企业，为通信和数据传输提供安全的

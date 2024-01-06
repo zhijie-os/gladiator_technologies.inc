@@ -2,8 +2,8 @@ import TagButton from "@/components/Blog/TagButton";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "产品 | 角斗士科技",
-  description: "互联网服务 | Internet Service | 角斗士科技",
+  title: "Product | Gladiator Technologies",
+  description: "Internet Service | Gladiator Technologies",
   // other metadata
 };
 

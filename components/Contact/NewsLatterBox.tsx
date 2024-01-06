@@ -12,7 +12,7 @@ const NewsLatterBox = () => {
       data-wow-delay=".2s"
     >
       <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
-        通过企业微信Contact Us, 我们会第一时间通知你最新的动态，产品更新，以及最新的技术文章。
+        Through our Enterprise WeChat, we will keep you informed about the latest developments, product updates, and the most recent technical articles.
       </p>
       <div>
         <Image src="/images/QR/QR_code.jpg" width={750} height={1334} alt={"QR code"}></Image>

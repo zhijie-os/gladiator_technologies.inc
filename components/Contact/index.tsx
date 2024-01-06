@@ -12,10 +12,10 @@ const Contact = () => {
               "
             >
               <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
-                需要帮助？ 请给我们留言
+                Need assistance? Please leave us a message.
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                我们的市场团队将通过电子邮件尽快回复您。
+                Our marketing team will respond to you as soon as possible via email.
               </p>
               <form>
                 <div className="-mx-4 flex flex-wrap">
@@ -25,11 +25,11 @@ const Contact = () => {
                         htmlFor="name"
                         className="mb-3 block text-sm font-medium text-dark dark:text-white"
                       >
-                        姓名
+                        Name
                       </label>
                       <input
                         type="text"
-                        placeholder="例如：陈先生"
+                        placeholder="e.g. John Doe"
                         className="border-stroke dark:text-body-color-dark dark:shadow-two w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:focus:border-primary dark:focus:shadow-none"
                       />
                     </div>
@@ -40,11 +40,11 @@ const Contact = () => {
                         htmlFor="email"
                         className="mb-3 block text-sm font-medium text-dark dark:text-white"
                       >
-                        邮箱
+                        Email
                       </label>
                       <input
                         type="email"
-                        placeholder="例如：12345678@mail.com"
+                        placeholder="e.g. john.doe@gmail.com"
                         className="border-stroke dark:text-body-color-dark dark:shadow-two w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:focus:border-primary dark:focus:shadow-none"
                       />
                     </div>
@@ -55,7 +55,7 @@ const Contact = () => {
                         htmlFor="message"
                         className="mb-3 block text-sm font-medium text-dark dark:text-white"
                       >
-                        消息
+                        Message
                       </label>
                       <textarea
                         name="message"
@@ -67,7 +67,7 @@ const Contact = () => {
                   </div>
                   <div className="w-full px-4">
                     <button className="shadow-submit dark:shadow-submit-dark rounded-sm bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90">
-                      提交
+                      Submit
                     </button>
                   </div>
                 </div>

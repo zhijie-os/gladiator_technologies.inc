@@ -2,8 +2,8 @@ import TagButton from "@/components/Blog/TagButton";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "产品 | 角斗士科技",
-  description: "SaaS服务 | 角斗士科技",
+  title: "Product | Gladiator Technologies",
+  description: "SaaS Service | Gladiator Technologies",
   // other metadata
 };
 
@@ -16,14 +16,14 @@ const BlogDetails = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  SaaS - 软件开发服务
+                  SaaS - Software Development Services
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">
                     <div className="mb-5 mr-10 flex items-center">
                       <div className="w-full">
                         <span className="mb-1 text-base font-medium text-body-color">
-                          By <span>角斗士科技</span>
+                          By <span>Gladiator Technologies</span>
                         </span>
                       </div>
                     </div>
@@ -63,11 +63,11 @@ const BlogDetails = () => {
                 <div>
    
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    角斗士科技的SaaS服务
+                    Our SaaS service
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    我们提供企业软件的定制服务，您的需求我们都可以满足！请大胆Contact Us，我们将为您提供最优质的服务！
+                    We provide customized enterprise software services, and we can meet all your needs! Please don&#8217;t hesitate to contact us, and we will provide you with the highest quality of service!
                     </li>
                   </ul>
                   {/* <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
@@ -79,10 +79,10 @@ const BlogDetails = () => {
                   <div className="items-center justify-between sm:flex">
                     <div className="mb-5">
                       <h4 className="mb-3 text-sm font-medium text-body-color">
-                        关键词 :
+                        Keywords :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="软件定制" />
+                        <TagButton text="Custom Software" />
                       </div>
                     </div>
                   </div>

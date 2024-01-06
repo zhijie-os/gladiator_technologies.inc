@@ -6,8 +6,8 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "浙江角斗士科技有限责任公司",
-  description: "浙江角斗士科技责任有限公司：专业提供定制化技术解决方案和咨询服务，帮助企业攻克技术难题，驱动业务增长。",
+  title: "角斗士科技有限责任公司",
+  description: "角斗士科技责任有限公司：网络安全 | IT外服 | 云端托管",
   // other metadata
 };
 

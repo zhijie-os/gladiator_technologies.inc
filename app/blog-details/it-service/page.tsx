@@ -2,8 +2,8 @@ import TagButton from "@/components/Blog/TagButton";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "产品 | 浙江角斗士科技",
-  description: "互联网服务 | Internet Service | 浙江角斗士科技",
+  title: "产品 | 角斗士科技",
+  description: "互联网服务 | Internet Service | 角斗士科技",
   // other metadata
 };
 
@@ -23,7 +23,7 @@ const BlogDetails = () => {
                     <div className="mb-5 mr-10 flex items-center">
                       <div className="w-full">
                         <span className="mb-1 text-base font-medium text-body-color">
-                          By <span>浙江角斗士科技</span>
+                          By <span>角斗士科技</span>
                         </span>
                       </div>
                     </div>

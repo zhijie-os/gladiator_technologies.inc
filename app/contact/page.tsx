@@ -4,7 +4,7 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "联系我们 | 浙江角斗士科技",
+  title: "联系我们 | 角斗士科技",
   description: "This is Contact Page for Startup Nextjs Template",
   // other metadata
 };

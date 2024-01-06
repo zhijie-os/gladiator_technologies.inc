@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "产品 | 浙江角斗士科技",
-  description: "产品 | 浙江角斗士科技",
+  title: "产品 | 角斗士科技",
+  description: "产品 | 角斗士科技",
   // other metadata
 };
 

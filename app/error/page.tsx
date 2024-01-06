@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "404 | 浙江角斗士科技",
-  description: "Error | 浙江角斗士科技",
+  title: "404 | 角斗士科技",
+  description: "Error | 角斗士科技",
   // other metadata
 };
 

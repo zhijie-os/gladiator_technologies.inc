@@ -26,7 +26,7 @@ const AboutSectionTwo = () => {
                   企业负责人 - 夏致杰
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  加拿大卡尔加里大学计算机科学专业本科，曾在加拿大多家软件公司担任软件工程师, Programmable Reality Lab 和 Microsoft Research担任研究员，有丰富的产品研发经验。现任浙江角斗士科技有限公司首席执行官。
+                  加拿大卡尔加里大学计算机科学专业本科，曾在加拿大多家软件公司担任软件工程师, Programmable Reality Lab 和 Microsoft Research担任研究员，有丰富的产品研发经验。现任角斗士科技有限公司首席执行官。
                 </p>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   个人网站：<a href="https://www.zhijiexia.org">www.zhijiexia.org</a>

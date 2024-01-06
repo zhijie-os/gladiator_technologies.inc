@@ -15,7 +15,7 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  解决技术难题，推动商业成长 — 您的理想伙伴，浙江角斗士科技。
+                  解决技术难题，推动商业成长 — 您的理想伙伴，角斗士科技。
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
                   专注技术解决方案的领导者，我们致力于帮助企业克服技术挑战，推动持续发展。加入我们，让创新引领您的商业成功。

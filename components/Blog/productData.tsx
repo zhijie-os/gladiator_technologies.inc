@@ -3,9 +3,9 @@ import { Blog } from "@/types/blog";
 const productData: Blog[] = [
   {
     id: 1,
-    title: "互联网和技术服务",
+    title: "Internet and Technology Services",
     paragraph:
-      "在互联网和技术服务方面，我们提供先进的技术支持和开发服务，包括但不限于网站开发、移动应用开发、企业软件解决方案以及定制化的技术咨询。我们的团队由行业内优秀的工程师和开发人员组成，他们拥有广泛的经验和深厚的专业知识，能够帮助客户实现他们的技术目标。",
+      "In the realm of internet and technology services, we offer advanced technical support and development services, including but not limited to website development, mobile app development, enterprise software solutions, and customized technology consulting. Our team consists of exceptional engineers and developers in the industry, equipped with extensive experience and profound expertise, enabling them to assist clients in achieving their technological goals.",
     image: "/images/blog/Internet.webp",
     author: {
       name: "Zhijie Xia",
@@ -18,9 +18,9 @@ const productData: Blog[] = [
   },
   {
     id: 2,
-    title: "网络安全",
+    title: "Cybersecurity",
     paragraph:
-      "在网络安全领域，角斗士科技提供全面的安全解决方案，包括网络安全评估、风险管理、数据保护和入侵检测。我们了解在数字化时代，数据安全的重要性，并致力于保护客户的信息免受任何形式的网络威胁。",
+      "In the field of cybersecurity, Gladiator Technologies offers comprehensive security solutions, including network security assessments, risk management, data protection, and intrusion detection. We understand the importance of data security in the digital age and are committed to safeguarding our customers' information from any form of cyber threats.",
     image: "/images/blog/Security.webp",
     author: {
       name: "Zhijie Xia",
@@ -33,9 +33,9 @@ const productData: Blog[] = [
   },
   {
     id: 3,
-    title: "SaaS服务",
+    title: "SaaS",
     paragraph:
-      "作为SaaS服务提供商，我们提供多种基于云的软件解决方案，包括客户关系管理（CRM）、企业资源规划（ERP）和供应链管理。我们的SaaS平台旨在帮助企业提高效率，降低成本，并促进信息流动和协作。",
+      "As a SaaS service provider, we offer a variety of cloud-based software solutions, including Customer Relationship Management (CRM), Enterprise Resource Planning (ERP), and Supply Chain Management. Our SaaS platform is designed to help businesses improve efficiency, reduce costs, and facilitate the flow of information and collaboration.",
     image: "/images/blog/SaaS.webp",
     author: {
       name: "Zhijie Xia",

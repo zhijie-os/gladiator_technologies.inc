@@ -101,9 +101,9 @@ l0 -1795 -225 0 -225 0 0 1795 0 1795 225 0 225 0 0 -1795z m1120 0 l0 -1795
         </g>
       </svg>
     ),
-    title: "为企业服务",
+    title: "Serve businesses",
     paragraph:
-      "我们的使命是帮助企业解决复杂的技术难题，提供全方位的支持和解决方案，以推动您的企业向更高层次发展。我们理解每一个企业的独特需求和挑战，致力于成为您可靠的合作伙伴，在这个不断变化的市场环境中，帮助您把握机遇，实现业务的快速扩张和长远发展。",
+      "Our mission is to assist businesses in solving complex technical challenges, providing comprehensive support and solutions to drive your enterprise to higher levels. We understand the unique needs and challenges of each business and are dedicated to being your reliable partner, helping you seize opportunities and achieve rapid business expansion and long-term growth in this ever-changing market environment.",
   },
   {
     id: 1,
@@ -182,9 +182,9 @@ l-98 -153 151 -224 150 -223 -23 -22 c-22 -21 -23 -21 -47 -3 -13 10 -113 78
         </g>
       </svg>
     ),
-    title: "卓越设计",
+    title: "Excellence in design",
     paragraph:
-      "我们的设计团队追求精准和实用性，致力于创造既美观又高效的产品界面和用户体验。我们坚信好的设计不仅能吸引用户的眼球，更是沟通品牌价值和理念的桥梁。我们的目标是通过创新思维和细致工艺，为客户提供高质量的设计解决方案。",
+      "Our design team pursues precision and practicality, committed to creating product interfaces and user experiences that are both aesthetically pleasing and highly efficient. We firmly believe that good design serves as a bridge to communicate brand values and ideas, not just catching the users' attention. Our goal is to provide clients with high-quality design solutions through innovative thinking and meticulous craftsmanship.",
   },
   {
     id: 1,
@@ -223,9 +223,9 @@ c-354 -261 -647 -474 -651 -472 -4 1 -359 261 -789 577 -430 316 -784 576
         </g>
       </svg>
     ),
-    title: "勇于挑战",
+    title: "Challenge facing",
     paragraph:
-      "在这个快速变化的数字时代，我们不畏惧挑战，不断探索技术的最新趋势。我们致力于将这些创新技术应用到我们的产品和服务中，帮助企业客户克服难题，开拓市场。选择我们，共同面对每一个挑战，解锁企业潜能，赢在未来。",
+      "In this fast-paced digital era, we fear no challenges and constantly explore the latest trends in technology. We are committed to integrating these innovative technologies into our products and services, assisting business clients in overcoming obstacles and expanding into the market. Choose us, and together, we'll confront every challenge, unlock your business's potential, and win in the future.",
   },
   // {
   //   id: 1,

@@ -15,17 +15,17 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  解决技术难题，推动商业成长 — 您的理想伙伴，角斗士科技。
+                  Cybersecurity and IT Solutions Provider - Gladiator Technologies, Inc
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  专注技术解决方案的领导者，我们致力于帮助企业克服技术挑战，推动持续发展。加入我们，让创新引领您的商业成功。
+                Focused leader in technical solutions, we are committed to helping businesses overcome technical challenges and drive continuous growth. Join us and let innovation lead your business success.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="/contact"
                     className="inline-block rounded-lg bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-slate-500 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
-                    联系我们
+                    Contact Us
                   </Link>
                 </div>
               </div>

@@ -2,8 +2,8 @@ import TagButton from "@/components/Blog/TagButton";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "产品 | 角斗士科技",
-  description: "SaaS服务 | 角斗士科技",
+  title: "Product | Gladiator Technologies, Inc",
+  description: " Security | Gladiator Technologies, Inc",
   // other metadata
 };
 
@@ -16,14 +16,14 @@ const BlogDetails = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  SaaS服务
+                  Cybersecurity
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">
                     <div className="mb-5 mr-10 flex items-center">
                       <div className="w-full">
                         <span className="mb-1 text-base font-medium text-body-color">
-                          By <span>角斗士科技</span>
+                          By <span>Gladiator Technologies, Inc</span>
                         </span>
                       </div>
                     </div>
@@ -56,50 +56,47 @@ const BlogDetails = () => {
                       href="#0"
                       className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white"
                     >
-                      联系我们
+                      Contact Us
                     </a>
                   </div>
                 </div>
                 <div>
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    网络安全的重要性不断升级
+                    The importance of cybersecurity continues to rise
                   </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在角斗士技术公司，我们不仅理解数字时代的挑战；我们创造了克服这些挑战的解决方案。我们的专家团队致力于开发适应各种业务需求的尖端网络安全产品。我们的整体方法结合了先进技术和用户友好的界面，确保您的网络安全措施既强大又易于管理。</p>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">At Gladiator Technologies, we not only understand the challenges of the digital age but also create solutions to overcome them. Our team of experts is dedicated to developing cutting-edge cybersecurity products that adapt to various business requirements. Our holistic approach combines advanced technology with user-friendly interfaces, ensuring that your cybersecurity measures are both robust and easy to manage.</p>
                   
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    认识角斗士技术公司
+                    Get to know Gladiator Technologies
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    随着我们更深入地进入数字时代，网络安全的重要性变得愈加突出。在这个互联互通的世界中，网络安全的漏洞可能导致重大的财务和声誉损失。无论大小或行业，所有企业都可能成为网络威胁的目标。这一现实使网络安全从IT部门的后台转移到了业务战略的前沿。
+                  As we delve deeper into the digital age, the importance of cybersecurity becomes increasingly prominent. In this interconnected world, vulnerabilities in cybersecurity can lead to significant financial and reputational losses. Regardless of size or industry, all businesses can become targets of cyber threats. This reality has shifted cybersecurity from the background of IT departments to the forefront of business strategy.
                   </p>
 
 
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    角斗士产品
+                    Gladiator Products
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    网络应用防火墙 (WAF):我们先进的WAF提供了对包括SQL注入和跨站脚本在内的多种基于网络的攻击的防护。它旨在在不影响您网络应用性能的情况下提供强大的保护。
+                      Web Application Firewall (WAF):Our advanced WAF offers protection against various network-based attacks, including SQL injection and cross-site scripting (XSS). It is designed to provide robust protection without impacting the performance of your web applications.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    虚拟专用网络 (VPN):我们的VPN服务确保数据传输的安全、加密隧道。它非常适合远程工作者和多地点的企业，为通信和数据传输提供安全的
+                      Virtual Private Network (VPN):Our VPN service ensures secure and encrypted tunnels for data transmission. It is ideal for remote workers and multi-location businesses, providing secure communication and data transfer.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    端点检测和响应 (EDR):我们的EDR解决方案是一种尖端的网络安全工具，能够在端点级别监控和响应威胁。它利用先进的分析和机器学习技术识别并中和复杂的网络威胁，为您的网络提供强大的防御线，以抵御各种形式的恶意软件和攻击。
+                      Endpoint Detection and Response (EDR): Our EDR solution is an advanced cybersecurity tool that monitors and responds to threats at the endpoint level. It leverages advanced analytics and machine learning techniques to identify and neutralize complex network threats, providing a robust defense line for your network against various forms of malware and attacks.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    态势感知系统：这些系统为您提供网络安全状况的全面概述。通过聚合和分析来自多个来源的数据，它们提供对潜在威胁和漏洞的实时洞察。这使得能够主动检测和响应安全事件，确保您网络的安全和完整性。
-                    </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    虚拟专用网 (VPN)：使您能够在共享或公共网络上发送和接收数据，就像您的计算设备直接连接到专用网络（如公司内网）上一样。 VPN的好处包括增加专用网络的功能、安全性和管理，它提供了对公共网络上无法访问的资源访问通常用于远程办公人员。
+                      Threat Intelligence Systems: These systems provide you with a comprehensive overview of your network security status. By aggregating and analyzing data from multiple sources, they offer real-time insights into potential threats and vulnerabilities. This enables proactive detection and response to security events, ensuring the security and integrity of your network.
                     </li>
                   </ul>
 
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    事件响应 (Incident Response, IR)
+                    Incident Response (IR) Services
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    为了更全面地保护您的企业免受网络攻击和数据泄露的影响，我们的网络安全产品现已增设了专业的事件响应（IR）服务。此项服务旨在提供快速、有效的解决方案，以应对可能发生的安全事件、对已经发生的安全事件追责。
+                    In order to provide comprehensive protection for your business against network attacks and data breaches, our cybersecurity products now include professional Incident Response (IR) services. This service is designed to deliver rapid and effective solutions for addressing potential security incidents and holding accountable those that have already occurred.
                   </p>
 
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
@@ -111,13 +108,13 @@ const BlogDetails = () => {
                   <div className="items-center justify-between sm:flex">
                     <div className="mb-5">
                       <h4 className="mb-3 text-sm font-medium text-body-color">
-                        关键词 :
+                        Keywords :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="网络安全" />
-                        <TagButton text="企业网络" />
-                        <TagButton text="漏洞扫描" />
-                        <TagButton text="事件响应" />
+                        <TagButton text="Cybersecurity" />
+                        <TagButton text="Enterprise Network" />
+                        <TagButton text="Vulnerability Scanning" />
+                        <TagButton text="Incident Response" />
                       </div>
                     </div>
                   </div>

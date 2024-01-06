@@ -56,7 +56,7 @@ const BlogDetails = () => {
                       href="#0"
                       className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white"
                     >
-                      联系我们
+                      Contact Us
                     </a>
                   </div>
                 </div>
@@ -67,7 +67,7 @@ const BlogDetails = () => {
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    我们提供企业软件的定制服务，您的需求我们都可以满足！请大胆联系我们，我们将为您提供最优质的服务！
+                    我们提供企业软件的定制服务，您的需求我们都可以满足！请大胆Contact Us，我们将为您提供最优质的服务！
                     </li>
                   </ul>
                   {/* <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">

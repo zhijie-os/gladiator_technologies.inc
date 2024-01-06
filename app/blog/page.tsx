@@ -5,8 +5,8 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "数字解决方案 | 技术支持",
-  description: "角斗士科技， 商用产品， 技术支持",
+  title: "Digital Solutions | Technical support",
+  description: "角斗士科技， 商用产品， Technical support",
   // other metadata
 };
 
@@ -14,11 +14,10 @@ const Blog = () => {
   return (
     <>
       <Breadcrumb
-        pageName="角斗士科技有限公司"
-        description="欢迎来到角斗士科技有限公司，我们是一家致力于创新和卓越的互联网和高科技公司。我们的愿景是成为技术服务和网络安全领域的先驱，为客户提供全方位的解决方案和服务。在角斗士科技，我们相信创新是推动成功的关键。我们不断探索新的技术边界，致力于为客户提供最优质的服务和解决方案。
-        无论您的需求如何复杂，我们都有能力和专业知识来帮助您实现目标。请联系我们的团队，了解更多信息。"
+        pageName="Gladiator Technologies, Inc"
+        description="Welcome to Gladiator Technologies, Inc. We are a dedicated internet and high-tech company committed to innovation and excellence. Our vision is to be a pioneer in the field of technology services and network security, offering comprehensive solutions and services to our clients. At Gladiator Tech, we believe that innovation is the key to success. We continuously explore new technological frontiers and are dedicated to providing our clients with the highest quality of service and solutions.
+        No matter how complex your needs may be, we have the capability and expertise to assist you in achieving your goals. Please contact our team for more information."
       />
-
 
       <section className="pb-[120px] pt-[120px]">
         <div className="container">

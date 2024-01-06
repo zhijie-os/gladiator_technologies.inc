@@ -6,8 +6,8 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "角斗士科技有限责任公司",
-  description: "角斗士科技责任有限公司：网络安全 | IT外服 | 云端托管",
+  title: "Gladiator Technologies, Inc",
+  description: "Gladiator Technologies, Inc - Leading Cybersecurity and IT Solutions Provider",
   // other metadata
 };
 
@@ -18,13 +18,6 @@ export default function Home() {
       <Hero />
       <Features />
       <Video />
-      {/* <Brands /> */}
-      {/* <AboutSectionOne /> */}
-      {/* <AboutSectionTwo /> */}
-      {/* <Testimonials /> */}
-      {/* <Pricing /> */}
-      {/* <Blog /> */}
-      {/* <Contact /> */}
     </>
   );
 }

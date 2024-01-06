@@ -15,7 +15,7 @@ const AboutSectionTwo = () => {
                 alt="CEO - Zhijie Xia"
                 width={374}
                 height={420}
-                className="drop-shadow-three dark:hidden dark:drop-shadow-none"
+                className="drop-shadow-three dark:drop-shadow-none"
               />
             </div>
           </div>
@@ -23,13 +23,13 @@ const AboutSectionTwo = () => {
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  企业负责人 - 夏致杰
+                  CEO - Zhijie Xia
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  加拿大卡尔加里大学计算机科学专业本科，曾在加拿大多家软件公司担任软件工程师, Programmable Reality Lab 和 Microsoft Research担任研究员，有丰富的产品研发经验。现任角斗士科技有限公司首席执行官。
+                Xia Zhijie holds a bachelor degree in Computer Science from the University of Calgary, Canada. He has previously worked as a software engineer at multiple software companies in Canada and served as a researcher at both the Programmable Reality Lab and Microsoft Research. With extensive experience in product development, he currently holds the position of Chief Executive Officer at Gladiator Technologies, Inc.
                 </p>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  个人网站：<a href="https://www.zhijiexia.org">www.zhijiexia.org</a>
+                  Personal Website:<a href="https://www.zhijiexia.org">www.zhijiexia.org</a>
                 </p>
               </div>
               {/* <div className="mb-9">

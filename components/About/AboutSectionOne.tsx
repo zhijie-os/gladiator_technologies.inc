@@ -48,8 +48,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="选择我们"
-                paragraph="我们的愿景是成为互联网服务和网络安全领域的先驱，为客户提供全方位的解决方案和服务。在角斗士科技，我们相信创新是推动成功的关键。我们不断探索新的技术边界，致力于为客户提供最优质的服务和解决方案。同时我们是一只年轻化的团队，我们有数不尽的激情和创造力，我们由衷地相信我们的产品和服务能够帮助您实现目标。"
+                title="Choose Us"
+                paragraph="Our vision is to become a pioneer in the fields of internet services and network security, offering our customers comprehensive solutions and services. At Gladiator Technologies, we believe that innovation is the key to success. We continuously explore new technological frontiers and are committed to providing our customers with the highest quality of service and solutions. We are also a youthful team, brimming with boundless passion and creativity. We sincerely believe that our products and services can help you achieve your goals."
                 mb="44px"
               />
 
@@ -59,15 +59,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="支持开源" />
-                    <List text="研发创新" />
-                    <List text="优质售后" />
+                    <List text="Support Open Source" />
+                    <List text="Research and Development Innovation" />
+                    <List text="High-Quality After-Sales Service" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="紧急响应" />
-                    <List text="定制方案" />
-                    <List text="技术过硬" />
+                    <List text="Emergency Response" />
+                    <List text="Customized Solutions" />
+                    <List text="Strong Technical Expertise" />
                   </div>
                 </div>
               </div>
@@ -82,7 +82,7 @@ const AboutSectionOne = () => {
                   src="/images/about/choose_us.png"
                   alt="choose us"
                   fill
-                  className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
+                  className="mx-auto max-w-full drop-shadow-three dark:drop-shadow-none lg:mr-0"
                 />
               </div>
             </div>

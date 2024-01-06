@@ -16,14 +16,14 @@ const BlogDetails = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  互联网时代
+                  Internet Era
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <div className="flex flex-wrap items-center">
                     <div className="mb-5 mr-10 flex items-center">
                       <div className="w-full">
                         <span className="mb-1 text-base font-medium text-body-color">
-                          By <span>角斗士科技</span>
+                          By <span>Gladiator Technologies</span>
                         </span>
                       </div>
                     </div>
@@ -56,42 +56,42 @@ const BlogDetails = () => {
                       href="#0"
                       className="inline-flex items-center justify-center rounded-full bg-slate-700 hover:bg-slate-500 px-4 py-2 text-sm font-semibold text-white"
                     >
-                      联系我们
+                      Contact Us
                     </a>
                   </div>
                 </div>
                 <div>
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    互联网的时代到来
+                    The Internet Age has arrived.
                   </strong>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">在当今这个信息化时代，互联网服务已经成为我们日常生活和商业活动中不可或缺的一部分。从基本的网络连接到复杂的云计算解决方案，互联网服务提供了一个平台，使个人和企业能够以前所未有的方式进行交流、合作和创新。通过这些服务，我们可以迅速访问大量信息，享受便捷的在线交易，并利用各种在线工具和应用来提高工作效率和生活质量。随着技术的不断进步，互联网服务的范围和质量也在持续扩展和改进，为我们带来更加丰富多彩的数字生活体验。</p>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">In today&#8217;s digital age, internet services have become an indispensable part of our daily lives and business activities. From basic internet connectivity to complex cloud computing solutions, internet services provide a platform that enables individuals and businesses to communicate, collaborate, and innovate in unprecedented ways. Through these services, we can access a vast amount of information quickly, enjoy convenient online transactions, and utilize various online tools and applications to enhance both work efficiency and quality of life. With the continuous advancement of technology, the scope and quality of internet services continue to expand and improve, offering us a more diverse and enriching digital life experience.</p>
                   
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    认识角斗士技术公司
+                    Gladiator Technologies
                   </strong>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    角斗士科技，作为一家领先的互联网技术公司，致力于提供创新和高效的网络解决方案。我们的服务范围广泛，包括但不限于云计算、大数据分析、网络安全以及定制化的软件开发。我们的云服务平台为企业提供了弹性、安全且易于管理的云基础设施，帮助客户轻松实现数字化转型。此外，我们的大数据解决方案能够协助企业从海量数据中提取有价值的洞见，支持更明智的商业决策。在网络安全方面，角斗士科技提供全面的安全策略和服务，确保客户数据的安全和完整性。我们还专注于为不同行业提供定制化的软件解决方案，以满足特定的业务需求。在角斗士科技，我们不断探索和创新，旨在为客户提供前沿的技术和卓越的服务体验。
+                  Gladiator Technologies, as a leading internet technology company, is committed to providing innovative and efficient internet solutions. Our services are extensive and include, but are not limited to, cloud computing, big data analytics, network security, and customized software development. Our cloud services platform offers businesses elastic, secure, and easily manageable cloud infrastructure, facilitating a seamless digital transformation for our clients. Additionally, our big data solutions assist businesses in extracting valuable insights from vast datasets, supporting more informed business decisions. In the realm of network security, Gladiator Technologies provides comprehensive security strategies and services to ensure the security and integrity of client data. We also specialize in delivering customized software solutions tailored to specific business needs across various industries. At Gladiator Technologies, we continuously explore and innovate, aiming to provide our clients with cutting-edge technology and an exceptional service experience.
                   </p>
 
 
                   <strong className="py-1 pb-2 text-blue-500 dark:text-white">
-                    角斗士产品
+                    Products at Gladiator Technologies
                   </strong>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      云计算和虚拟化解决方案： 我们提供先进的云计算服务，包括云存储、云服务器和云应用平台。利用虚拟化技术，我们帮助企业轻松实现资源优化和成本节约，同时确保数据安全和系统可靠性。
+                    Cloud Computing and Virtualization Solutions: We offer advanced cloud computing services, including cloud storage, cloud servers, and cloud application platforms. Leveraging virtualization technology, we assist businesses in achieving resource optimization and cost savings while ensuring data security and system reliability.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      数据分析和机器学习：通过应用机器学习和深度学习技术，我们提供定制的数据分析解决方案。这些服务有助于企业从大量数据中提取有价值的洞见，从而支持更明智的商业决策和策略。
+                    Data Analysis and Machine Learning: Leveraging machine learning and deep learning technologies, we provide customized data analysis solutions. These services help businesses extract valuable insights from vast datasets, thereby supporting more informed business decisions and strategies.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      API开发和集成服务：我们专注于开发高效、安全的API，为各种应用和系统提供无缝集成。我们的API解决方案强调易用性和可扩展性，帮助企业提高运营效率和用户体验。
+                    API Development and Integration Services: We specialize in developing efficient and secure APIs for seamless integration with various applications and systems. Our API solutions emphasize usability and scalability, helping businesses improve operational efficiency and user experience.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      移动应用开发：我们专业开发iOS和Android平台的移动应用。无论是电商、社交媒体还是企业应用，我们都能提供个性化的设计和开发服务，满足不同客户的需求。
+                    Mobile App Development: We specialize in developing mobile applications for the iOS and Android platforms. Whether it&#8217;s for e-commerce, social media, or enterprise applications, we provide personalized design and development services to meet the unique needs of our clients.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      区块链技术应用：我们利用区块链技术开发安全、透明的应用解决方案。包括加密货币、智能合约和供应链管理等，为企业提供去中心化、不可篡改的数字解决方案。
+                    Blockchain Technology Applications: We harness blockchain technology to develop secure and transparent application solutions, including cryptocurrencies, smart contracts, and supply chain management, providing businesses with decentralized and tamper-proof digital solutions.
                     </li>
                   </ul>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
@@ -103,13 +103,13 @@ const BlogDetails = () => {
                   <div className="items-center justify-between sm:flex">
                     <div className="mb-5">
                       <h4 className="mb-3 text-sm font-medium text-body-color">
-                        关键词 :
+                        Keywords :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="云计算" />
-                        <TagButton text="机器学习" />
-                        <TagButton text="API开发" />
-                        <TagButton text="区块链" />
+                        <TagButton text="Cloud Computing" />
+                        <TagButton text="Machine Learning" />
+                        <TagButton text="RESTful" />
+                        <TagButton text="Blockchain" />
                       </div>
                     </div>
                   </div>

@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="让我们来帮助你的企业"
-          paragraph="我们的团队致力于为企业提供前沿科技解决方案。我们深信，创新的科技可以推动企业发展，解决复杂问题。我们的目标是通过提供专业的技术支持和服务，帮助企业达到他们的业务目标，优化流程效率，提升市场竞争力，共创美好的科技未来。"
+          title="Let us help your business."
+          paragraph="Our team is dedicated to providing cutting-edge technology solutions for businesses. We firmly believe that innovative technology can drive enterprise growth and address complex challenges. Our goal is to assist businesses in achieving their objectives, optimizing process efficiency, enhancing market competitiveness, and co-creating a brighter technological future through professional technical support and services."
           center
           mb="80px"
         />

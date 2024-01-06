@@ -164,7 +164,7 @@ const Header = () => {
                   href="/contact"
                   className="hidden px-7 py-3 text-base font-medium text-dark hover:opacity-70 dark:text-white md:block"
                 >
-                  业务咨询
+                  Contact US
                 </Link>
                 <div>
                   <ThemeToggler />
